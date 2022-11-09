@@ -27,6 +27,7 @@ public class ArithmeticOperation {
 		int mod = obj.mod(num1, num2);
 		System.out.println("Modulus of numbers is " + mod);
 		
+		System.out.println("New Line");
 		reader.close();
 
 	}
